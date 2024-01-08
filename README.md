@@ -7,3 +7,7 @@ Python 3.9 <br />
 * Numpy <br />
 * OpenCV 4.4.0 <br />
 * Pyserial 3.5 <br />
+
+## Acknowledgment
+This project requires the haarcascade file provided by OpenCV github repository.
+* Xml - https://github.com/opencv/opencv/blob/4.x/data/haarcascades/haarcascade_frontalface_default.xml <br />
